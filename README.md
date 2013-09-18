@@ -1,9 +1,9 @@
-tugboat
+barge
 =======
 
-[![Code Climate](https://codeclimate.com/github/randywallace/tugboat.png)](https://codeclimate.com/github/randywallace/tugboat)
-[![Dependency Status](https://gemnasium.com/randywallace/tugboat.png)](https://gemnasium.com/randywallace/tugboat)
-[![Build Status](https://travis-ci.org/randywallace/tugboat.png)](https://travis-ci.org/randywallace/tugboat)
-[![Coverage Status](https://coveralls.io/repos/randywallace/tugboat/badge.png)](https://coveralls.io/r/randywallace/tugboat)
+[![Code Climate](https://codeclimate.com/github/randywallace/barge.png)](https://codeclimate.com/github/randywallace/barge)
+[![Dependency Status](https://gemnasium.com/randywallace/barge.png)](https://gemnasium.com/randywallace/barge)
+[![Build Status](https://travis-ci.org/randywallace/barge.png)](https://travis-ci.org/randywallace/barge)
+[![Coverage Status](https://coveralls.io/repos/randywallace/barge/badge.png)](https://coveralls.io/r/randywallace/barge)
 
 A Docker Web UI
