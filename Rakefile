@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Tugboat::Application.load_tasks
+Barge::Application.load_tasks

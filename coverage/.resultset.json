@@ -1,21 +1,21 @@
 {
   "Unknown Test Framework": {
     "coverage": {
-      "/Users/randy/git/tugboat/app/helpers/application_helper.rb": [
+      "/Users/randy/git/barge/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/Users/randy/git/tugboat/app/helpers/container_helper.rb": [
+      "/Users/randy/git/barge/app/helpers/container_helper.rb": [
         1,
         null
       ],
-      "/Users/randy/git/tugboat/app/controllers/container_controller.rb": [
+      "/Users/randy/git/barge/app/controllers/container_controller.rb": [
         1,
         1,
         null,
         null
       ],
-      "/Users/randy/git/tugboat/app/controllers/application_controller.rb": [
+      "/Users/randy/git/barge/app/controllers/application_controller.rb": [
         1,
         null,
         null,
@@ -23,6 +23,6 @@
         null
       ]
     },
-    "timestamp": 1379487212
+    "timestamp": 1379490255
   }
 }

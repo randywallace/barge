@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Tugboat::Application.config.secret_key_base = '239414341c0fd7e530be1f176f0c66c5040b899c2fd6c2ff2919e5a0dcea4ff73545f646d4dbd83270489046cf9d0ac7460a83ae9777426e1544527725f8fca6'
+Barge::Application.config.secret_key_base = '239414341c0fd7e530be1f176f0c66c5040b899c2fd6c2ff2919e5a0dcea4ff73545f646d4dbd83270489046cf9d0ac7460a83ae9777426e1544527725f8fca6'
