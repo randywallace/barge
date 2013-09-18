@@ -4,7 +4,7 @@ require 'rails/test_help'
 
 # For Code Coverage at coveralls.io
 require 'coveralls'
-Coveralls.wear!
+Coveralls.wear!('rails')
 
 class ActiveSupport::TestCase
   ActiveRecord::Migration.check_pending!
