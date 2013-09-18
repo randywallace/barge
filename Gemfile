@@ -46,3 +46,6 @@ end
 
 # Use Slim instead of ERB
 gem "slim-rails"
+
+# Docker API Interface
+gem "docker-api", :github => "swipely/docker-api", :branch => "master"
