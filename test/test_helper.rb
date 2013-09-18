@@ -2,6 +2,10 @@ ENV["RAILS_ENV"] ||= "test"
 require File.expand_path('../../config/environment', __FILE__)
 require 'rails/test_help'
 
+# For Code Coverage at coveralls.io
+require 'coveralls'
+Coveralls.wear!
+
 class ActiveSupport::TestCase
   ActiveRecord::Migration.check_pending!
 

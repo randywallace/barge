@@ -49,3 +49,6 @@ gem "slim-rails"
 
 # Docker API Interface
 gem "docker-api", :github => "swipely/docker-api", :branch => "master"
+
+# Coveralls.io Code Coverage Gem
+gem 'coveralls', require: false
