@@ -1,10 +1,12 @@
 Barge::Application.routes.draw do
+  get "static/index"
+  get "static/about"
   get "container/index"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
-  # root 'welcome#index'
+  root 'static#index'
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'

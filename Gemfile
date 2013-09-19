@@ -52,3 +52,6 @@ gem "docker-api", :github => "swipely/docker-api", :branch => "master"
 
 # Coveralls.io Code Coverage Gem
 gem 'coveralls', require: false
+
+# Include Twitter Bootstrap
+gem 'bootstrap-sass-rails'
